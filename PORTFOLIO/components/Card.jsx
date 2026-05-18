@@ -41,7 +41,7 @@ import img from "../assets/me.png";
 
 function Card() {
     return (
-        <div className="h-[85vh]  bg-black flex items-center justify-center p-4">
+        <div className="motion-preset-slide-down h-[85vh]  bg-black flex items-center justify-center p-4">
 
             {/* Visiting Card */}
             <div
